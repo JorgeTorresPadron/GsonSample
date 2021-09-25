@@ -1,2 +1,2 @@
 # GsonSample
- gsonsample JorgeTP
+Implementación de la librería Gson por JorgeTP
