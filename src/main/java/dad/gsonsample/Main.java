@@ -40,7 +40,7 @@ public class Main {
 				System.out.print("Escribe tu edad: ");
 				try { 
 					nuevoEdad = Integer.parseInt(sc.nextLine());
-					if (nuevoEdad > 0) { esValida = true; }	// Comprobamos que sea por encima de 0 años
+					if (nuevoEdad > 0) { esValida = true; }
 				} catch(Exception e) { 
 					esValida = false;
 				}
